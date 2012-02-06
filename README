@@ -1,0 +1,8 @@
+This will be a web application to take various data from a host (e.g., sar)
+  and expose it via a web API.
+
+Uses Plack to expose data via JSON for some async JS front end, whether
+that be Google Charts, Ext JS, D3, etc.
+
+Sar::Tiny is a small module that just exports what I want via sar.
+
