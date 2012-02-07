@@ -5,6 +5,7 @@ use warnings;
 use English;
 
 # PSGI
+# This is from the google charts demo
 my $head = q{
   <html>
     <head>
